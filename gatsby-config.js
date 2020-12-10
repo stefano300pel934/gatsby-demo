@@ -77,4 +77,7 @@ module.exports = {
       },
     },
   ].filter(Boolean),
+
+  pathPrefix: "/reponame",
+  
 }
